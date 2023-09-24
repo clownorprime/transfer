@@ -1,0 +1,1235 @@
+Start testing: Sep 23 22:22 CST
+----------------------------------------------------------
+1/164 Testing: t_wrapping_ints_cmp
+1/164 Test: t_wrapping_ints_cmp
+Command: "/home/gsh/csdiy/libsponge/build/tests/wrapping_integers_cmp"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_wrapping_ints_cmp" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_wrapping_ints_cmp" end time: Sep 23 22:22 CST
+"t_wrapping_ints_cmp" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/164 Testing: t_wrapping_ints_unwrap
+2/164 Test: t_wrapping_ints_unwrap
+Command: "/home/gsh/csdiy/libsponge/build/tests/wrapping_integers_unwrap"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_wrapping_ints_unwrap" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_wrapping_ints_unwrap" end time: Sep 23 22:22 CST
+"t_wrapping_ints_unwrap" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/164 Testing: t_wrapping_ints_wrap
+3/164 Test: t_wrapping_ints_wrap
+Command: "/home/gsh/csdiy/libsponge/build/tests/wrapping_integers_wrap"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_wrapping_ints_wrap" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_wrapping_ints_wrap" end time: Sep 23 22:22 CST
+"t_wrapping_ints_wrap" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/164 Testing: t_wrapping_ints_roundtrip
+4/164 Test: t_wrapping_ints_roundtrip
+Command: "/home/gsh/csdiy/libsponge/build/tests/wrapping_integers_roundtrip"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_wrapping_ints_roundtrip" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   1.71 sec
+----------------------------------------------------------
+Test Passed.
+"t_wrapping_ints_roundtrip" end time: Sep 23 22:22 CST
+"t_wrapping_ints_roundtrip" time elapsed: 00:00:01
+----------------------------------------------------------
+
+5/164 Testing: t_recv_connect
+5/164 Test: t_recv_connect
+Command: "/home/gsh/csdiy/libsponge/build/tests/recv_connect"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_recv_connect" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_recv_connect" end time: Sep 23 22:22 CST
+"t_recv_connect" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/164 Testing: t_recv_transmit
+6/164 Test: t_recv_transmit
+Command: "/home/gsh/csdiy/libsponge/build/tests/recv_transmit"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_recv_transmit" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"t_recv_transmit" end time: Sep 23 22:22 CST
+"t_recv_transmit" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/164 Testing: t_recv_window
+7/164 Test: t_recv_window
+Command: "/home/gsh/csdiy/libsponge/build/tests/recv_window"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_recv_window" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_recv_window" end time: Sep 23 22:22 CST
+"t_recv_window" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/164 Testing: t_recv_reorder
+8/164 Test: t_recv_reorder
+Command: "/home/gsh/csdiy/libsponge/build/tests/recv_reorder"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_recv_reorder" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_recv_reorder" end time: Sep 23 22:22 CST
+"t_recv_reorder" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/164 Testing: t_recv_close
+9/164 Test: t_recv_close
+Command: "/home/gsh/csdiy/libsponge/build/tests/recv_close"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_recv_close" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_recv_close" end time: Sep 23 22:22 CST
+"t_recv_close" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/164 Testing: t_recv_special
+10/164 Test: t_recv_special
+Command: "/home/gsh/csdiy/libsponge/build/tests/recv_special"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_recv_special" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_recv_special" end time: Sep 23 22:22 CST
+"t_recv_special" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/164 Testing: t_send_connect
+11/164 Test: t_send_connect
+Command: "/home/gsh/csdiy/libsponge/build/tests/send_connect"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_send_connect" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_send_connect" end time: Sep 23 22:22 CST
+"t_send_connect" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/164 Testing: t_send_transmit
+12/164 Test: t_send_transmit
+Command: "/home/gsh/csdiy/libsponge/build/tests/send_transmit"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_send_transmit" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"t_send_transmit" end time: Sep 23 22:22 CST
+"t_send_transmit" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/164 Testing: t_send_retx
+13/164 Test: t_send_retx
+Command: "/home/gsh/csdiy/libsponge/build/tests/send_retx"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_send_retx" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_send_retx" end time: Sep 23 22:22 CST
+"t_send_retx" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/164 Testing: t_send_window
+14/164 Test: t_send_window
+Command: "/home/gsh/csdiy/libsponge/build/tests/send_window"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_send_window" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_send_window" end time: Sep 23 22:22 CST
+"t_send_window" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/164 Testing: t_send_ack
+15/164 Test: t_send_ack
+Command: "/home/gsh/csdiy/libsponge/build/tests/send_ack"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_send_ack" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_send_ack" end time: Sep 23 22:22 CST
+"t_send_ack" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/164 Testing: t_send_close
+16/164 Test: t_send_close
+Command: "/home/gsh/csdiy/libsponge/build/tests/send_close"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_send_close" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_send_close" end time: Sep 23 22:22 CST
+"t_send_close" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/164 Testing: t_send_extra
+17/164 Test: t_send_extra
+Command: "/home/gsh/csdiy/libsponge/build/tests/send_extra"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_send_extra" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_send_extra" end time: Sep 23 22:22 CST
+"t_send_extra" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/164 Testing: t_strm_reassem_single
+18/164 Test: t_strm_reassem_single
+Command: "/home/gsh/csdiy/libsponge/build/tests/fsm_stream_reassembler_single"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_strm_reassem_single" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_strm_reassem_single" end time: Sep 23 22:22 CST
+"t_strm_reassem_single" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/164 Testing: t_strm_reassem_seq
+19/164 Test: t_strm_reassem_seq
+Command: "/home/gsh/csdiy/libsponge/build/tests/fsm_stream_reassembler_seq"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_strm_reassem_seq" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_strm_reassem_seq" end time: Sep 23 22:22 CST
+"t_strm_reassem_seq" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/164 Testing: t_strm_reassem_dup
+20/164 Test: t_strm_reassem_dup
+Command: "/home/gsh/csdiy/libsponge/build/tests/fsm_stream_reassembler_dup"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_strm_reassem_dup" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_strm_reassem_dup" end time: Sep 23 22:22 CST
+"t_strm_reassem_dup" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/164 Testing: t_strm_reassem_holes
+21/164 Test: t_strm_reassem_holes
+Command: "/home/gsh/csdiy/libsponge/build/tests/fsm_stream_reassembler_holes"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_strm_reassem_holes" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_strm_reassem_holes" end time: Sep 23 22:22 CST
+"t_strm_reassem_holes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/164 Testing: t_strm_reassem_many
+22/164 Test: t_strm_reassem_many
+Command: "/home/gsh/csdiy/libsponge/build/tests/fsm_stream_reassembler_many"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_strm_reassem_many" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"t_strm_reassem_many" end time: Sep 23 22:22 CST
+"t_strm_reassem_many" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/164 Testing: t_strm_reassem_overlapping
+23/164 Test: t_strm_reassem_overlapping
+Command: "/home/gsh/csdiy/libsponge/build/tests/fsm_stream_reassembler_overlapping"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_strm_reassem_overlapping" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_strm_reassem_overlapping" end time: Sep 23 22:22 CST
+"t_strm_reassem_overlapping" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/164 Testing: t_strm_reassem_win
+24/164 Test: t_strm_reassem_win
+Command: "/home/gsh/csdiy/libsponge/build/tests/fsm_stream_reassembler_win"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_strm_reassem_win" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"t_strm_reassem_win" end time: Sep 23 22:22 CST
+"t_strm_reassem_win" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/164 Testing: t_strm_reassem_cap
+25/164 Test: t_strm_reassem_cap
+Command: "/home/gsh/csdiy/libsponge/build/tests/fsm_stream_reassembler_cap"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_strm_reassem_cap" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"t_strm_reassem_cap" end time: Sep 23 22:22 CST
+"t_strm_reassem_cap" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/164 Testing: t_byte_stream_construction
+26/164 Test: t_byte_stream_construction
+Command: "/home/gsh/csdiy/libsponge/build/tests/byte_stream_construction"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_byte_stream_construction" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_byte_stream_construction" end time: Sep 23 22:22 CST
+"t_byte_stream_construction" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/164 Testing: t_byte_stream_one_write
+27/164 Test: t_byte_stream_one_write
+Command: "/home/gsh/csdiy/libsponge/build/tests/byte_stream_one_write"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_byte_stream_one_write" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_byte_stream_one_write" end time: Sep 23 22:22 CST
+"t_byte_stream_one_write" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/164 Testing: t_byte_stream_two_writes
+28/164 Test: t_byte_stream_two_writes
+Command: "/home/gsh/csdiy/libsponge/build/tests/byte_stream_two_writes"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_byte_stream_two_writes" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_byte_stream_two_writes" end time: Sep 23 22:22 CST
+"t_byte_stream_two_writes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/164 Testing: t_byte_stream_capacity
+29/164 Test: t_byte_stream_capacity
+Command: "/home/gsh/csdiy/libsponge/build/tests/byte_stream_capacity"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_byte_stream_capacity" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.49 sec
+----------------------------------------------------------
+Test Passed.
+"t_byte_stream_capacity" end time: Sep 23 22:22 CST
+"t_byte_stream_capacity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/164 Testing: t_byte_stream_many_writes
+30/164 Test: t_byte_stream_many_writes
+Command: "/home/gsh/csdiy/libsponge/build/tests/byte_stream_many_writes"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_byte_stream_many_writes" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_byte_stream_many_writes" end time: Sep 23 22:22 CST
+"t_byte_stream_many_writes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/164 Testing: t_webget
+31/164 Test: t_webget
+Command: "/home/gsh/csdiy/libsponge/tests/webget_t.sh"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_webget" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+DEBUG: Connecting to 104.196.238.229:80... done.
+DEBUG: Inbound stream from 104.196.238.229:80 finished cleanly.
+HTTP/1.1 200 OK
+Content-type: text/plain
+
+7SmXqWkDEBUG: Waiting for clean shutdown... rLKzVBCEalbSPqBcvs11Pw263K7x4Wv3JckI
+DEBUG: Outbound stream to 104.196.238.229:80 finished (1 byte still in flight).
+DEBUG: Outbound stream to 104.196.238.229:80 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   4.83 sec
+----------------------------------------------------------
+Test Passed.
+"t_webget" end time: Sep 23 22:22 CST
+"t_webget" time elapsed: 00:00:04
+----------------------------------------------------------
+
+32/164 Testing: arp_network_interface
+32/164 Test: arp_network_interface
+Command: "/home/gsh/csdiy/libsponge/build/tests/net_interface"
+Directory: /home/gsh/csdiy/libsponge/build
+"arp_network_interface" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+DEBUG: Network interface has Ethernet address a2:b2:92:4b:fb:30 and IP address 4.3.2.1
+Test Failure on expectation:
+	Expectation: frame transmitted (dst=ff:ff:ff:ff:ff:ff, src=a2:b2:92:4b:fb:30, type=ARP + payload (28 bytes) ARP: opcode=REQUEST, sender=a2:b2:92:4b:fb:30/4.3.2.1, target=00:00:00:00:00:00/192.168.0.1)
+
+Failure message:
+	NetworkInterface was expected to send an Ethernet frame, but did not
+
+List of steps that executed successfully:
+	Initialized with (ethernet_address=a2:b2:92:4b:fb:30, ip_address=4.3.2.1)
+	     Action: request to send datagram (to next hop 192.168.0.1): IPv4, len=19, protocol=6, src=5.6.7.8, dst=13.12.11.10
+
+The test "typical ARP workflow" failed
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"arp_network_interface" end time: Sep 23 22:22 CST
+"arp_network_interface" time elapsed: 00:00:00
+----------------------------------------------------------
+
+Unable to find executable: network_simulator
+33/164 Testing: router_test
+33/164 Test: router_test
+Command: ""
+Directory: /home/gsh/csdiy/libsponge/build
+"router_test" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"router_test" end time: Sep 23 22:22 CST
+"router_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/164 Testing: t_tcp_parser
+34/164 Test: t_tcp_parser
+Command: "/home/gsh/csdiy/libsponge/build/tests/tcp_parser" "/home/gsh/csdiy/libsponge/tests/ipv4_parser.data"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_tcp_parser" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"t_tcp_parser" end time: Sep 23 22:22 CST
+"t_tcp_parser" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/164 Testing: t_ipv4_parser
+35/164 Test: t_ipv4_parser
+Command: "/home/gsh/csdiy/libsponge/build/tests/ipv4_parser" "/home/gsh/csdiy/libsponge/tests/ipv4_parser.data"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_ipv4_parser" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_ipv4_parser" end time: Sep 23 22:22 CST
+"t_ipv4_parser" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/164 Testing: t_active_close
+36/164 Test: t_active_close
+Command: "/home/gsh/csdiy/libsponge/build/tests/fsm_active_close"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_active_close" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_active_close" end time: Sep 23 22:22 CST
+"t_active_close" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/164 Testing: t_passive_close
+37/164 Test: t_passive_close
+Command: "/home/gsh/csdiy/libsponge/build/tests/fsm_passive_close"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_passive_close" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_passive_close" end time: Sep 23 22:22 CST
+"t_passive_close" time elapsed: 00:00:00
+----------------------------------------------------------
+
+38/164 Testing: t_ack_rst
+38/164 Test: t_ack_rst
+Command: "/home/gsh/csdiy/libsponge/build/tests/fsm_ack_rst_relaxed"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_ack_rst" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+Test 1
+Test 2
+Test 3
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Test 4
+Test 5
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_ack_rst" end time: Sep 23 22:22 CST
+"t_ack_rst" time elapsed: 00:00:00
+----------------------------------------------------------
+
+39/164 Testing: t_ack_rst_win
+39/164 Test: t_ack_rst_win
+Command: "/home/gsh/csdiy/libsponge/build/tests/fsm_ack_rst_win_relaxed"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_ack_rst_win" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_ack_rst_win" end time: Sep 23 22:22 CST
+"t_ack_rst_win" time elapsed: 00:00:00
+----------------------------------------------------------
+
+40/164 Testing: t_connect
+40/164 Test: t_connect
+Command: "/home/gsh/csdiy/libsponge/build/tests/fsm_connect_relaxed"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_connect" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_connect" end time: Sep 23 22:22 CST
+"t_connect" time elapsed: 00:00:00
+----------------------------------------------------------
+
+41/164 Testing: t_listen
+41/164 Test: t_listen
+Command: "/home/gsh/csdiy/libsponge/build/tests/fsm_listen_relaxed"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_listen" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+Warning: Unclean shutdown of TCPConnection
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_listen" end time: Sep 23 22:22 CST
+"t_listen" time elapsed: 00:00:00
+----------------------------------------------------------
+
+42/164 Testing: t_winsize
+42/164 Test: t_winsize
+Command: "/home/gsh/csdiy/libsponge/build/tests/fsm_winsize"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_winsize" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"t_winsize" end time: Sep 23 22:22 CST
+"t_winsize" time elapsed: 00:00:00
+----------------------------------------------------------
+
+43/164 Testing: t_retx
+43/164 Test: t_retx
+Command: "/home/gsh/csdiy/libsponge/build/tests/fsm_retx_relaxed"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_retx" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_retx" end time: Sep 23 22:22 CST
+"t_retx" time elapsed: 00:00:00
+----------------------------------------------------------
+
+44/164 Testing: t_retx_win
+44/164 Test: t_retx_win
+Command: "/home/gsh/csdiy/libsponge/build/tests/fsm_retx_win"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_retx_win" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_retx_win" end time: Sep 23 22:22 CST
+"t_retx_win" time elapsed: 00:00:00
+----------------------------------------------------------
+
+45/164 Testing: t_loopback
+45/164 Test: t_loopback
+Command: "/home/gsh/csdiy/libsponge/build/tests/fsm_loopback"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_loopback" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+<end of output>
+Test time =   0.18 sec
+----------------------------------------------------------
+Test Passed.
+"t_loopback" end time: Sep 23 22:22 CST
+"t_loopback" time elapsed: 00:00:00
+----------------------------------------------------------
+
+46/164 Testing: t_loopback_win
+46/164 Test: t_loopback_win
+Command: "/home/gsh/csdiy/libsponge/build/tests/fsm_loopback_win"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_loopback_win" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"t_loopback_win" end time: Sep 23 22:22 CST
+"t_loopback_win" time elapsed: 00:00:00
+----------------------------------------------------------
+
+47/164 Testing: t_reorder
+47/164 Test: t_reorder
+Command: "/home/gsh/csdiy/libsponge/build/tests/fsm_reorder"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_reorder" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+<end of output>
+Test time =   0.17 sec
+----------------------------------------------------------
+Test Passed.
+"t_reorder" end time: Sep 23 22:22 CST
+"t_reorder" time elapsed: 00:00:00
+----------------------------------------------------------
+
+48/164 Testing: t_address_dt
+48/164 Test: t_address_dt
+Command: "/home/gsh/csdiy/libsponge/build/doctests/address_dt"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_address_dt" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"t_address_dt" end time: Sep 23 22:22 CST
+"t_address_dt" time elapsed: 00:00:00
+----------------------------------------------------------
+
+49/164 Testing: t_parser_dt
+49/164 Test: t_parser_dt
+Command: "/home/gsh/csdiy/libsponge/build/doctests/parser_dt"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_parser_dt" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_parser_dt" end time: Sep 23 22:22 CST
+"t_parser_dt" time elapsed: 00:00:00
+----------------------------------------------------------
+
+50/164 Testing: t_socket_dt
+50/164 Test: t_socket_dt
+Command: "/home/gsh/csdiy/libsponge/build/doctests/socket_dt"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_socket_dt" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_socket_dt" end time: Sep 23 22:22 CST
+"t_socket_dt" time elapsed: 00:00:00
+----------------------------------------------------------
+
+51/164 Testing: t_udp_client_send
+51/164 Test: t_udp_client_send
+Command: "/home/gsh/csdiy/libsponge/txrx.sh" "-ucS"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_udp_client_send" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:6398... done.
+new connection from 169.254.144.1:34130.
+DEBUG: Outbound stream to 169.254.144.1:34130 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:6398 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:34130 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:6398 finished (33 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:34130 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:6398 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.35 sec
+----------------------------------------------------------
+Test Passed.
+"t_udp_client_send" end time: Sep 23 22:22 CST
+"t_udp_client_send" time elapsed: 00:00:00
+----------------------------------------------------------
+
+52/164 Testing: t_udp_server_send
+52/164 Test: t_udp_server_send
+Command: "/home/gsh/csdiy/libsponge/txrx.sh" "-usS"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_udp_server_send" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:6097... done.
+new connection from 169.254.144.1:50080.
+DEBUG: Outbound stream to 169.254.144.1:6097 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:50080 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:6097 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:50080 finished (33 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:6097 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:50080 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.26 sec
+----------------------------------------------------------
+Test Passed.
+"t_udp_server_send" end time: Sep 23 22:22 CST
+"t_udp_server_send" time elapsed: 00:00:00
+----------------------------------------------------------
+
+53/164 Testing: t_udp_client_recv
+53/164 Test: t_udp_client_recv
+Command: "/home/gsh/csdiy/libsponge/txrx.sh" "-ucR"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_udp_client_recv" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:31497... done.
+new connection from 169.254.144.1:45487.
+DEBUG: Outbound stream to 169.254.144.1:31497 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:45487 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:31497 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:45487 finished (33 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:31497 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:45487 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.25 sec
+----------------------------------------------------------
+Test Passed.
+"t_udp_client_recv" end time: Sep 23 22:22 CST
+"t_udp_client_recv" time elapsed: 00:00:00
+----------------------------------------------------------
+
+54/164 Testing: t_udp_server_recv
+54/164 Test: t_udp_server_recv
+Command: "/home/gsh/csdiy/libsponge/txrx.sh" "-usR"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_udp_server_recv" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:29277... done.
+new connection from 169.254.144.1:39657.
+DEBUG: Outbound stream to 169.254.144.1:39657 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:29277 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:39657 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:29277 finished (33 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:39657 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:29277 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.26 sec
+----------------------------------------------------------
+Test Passed.
+"t_udp_server_recv" end time: Sep 23 22:22 CST
+"t_udp_server_recv" time elapsed: 00:00:00
+----------------------------------------------------------
+
+55/164 Testing: t_udp_client_dupl
+55/164 Test: t_udp_client_dupl
+Command: "/home/gsh/csdiy/libsponge/txrx.sh" "-ucD"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_udp_client_dupl" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:4549... done.
+new connection from 169.254.144.1:59350.
+DEBUG: Outbound stream to 169.254.144.1:4549 finished (33 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:59350 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:4549 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:59350 finished (33 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:4549 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:59350 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.26 sec
+----------------------------------------------------------
+Test Passed.
+"t_udp_client_dupl" end time: Sep 23 22:22 CST
+"t_udp_client_dupl" time elapsed: 00:00:00
+----------------------------------------------------------
+
+56/164 Testing: t_udp_server_dupl
+56/164 Test: t_udp_server_dupl
+Command: "/home/gsh/csdiy/libsponge/txrx.sh" "-usD"
+Directory: /home/gsh/csdiy/libsponge/build
+"t_udp_server_dupl" start time: Sep 23 22:22 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:25260... done.
+new connection from 169.254.144.1:45836.
+DEBUG: Outbound stream to 169.254.144.1:25260 finished (33 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:45836 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:25260 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:45836 finished (33 bytes still in flight).
+DEBUG: Inbound stream from DEBUG: Waiting for clean shutdown... 169.254.144.1:25260 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:45836 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.26 sec
+----------------------------------------------------------
+Test Passed.
+"t_udp_server_dupl" end time: Sep 23 22:22 CST
+"t_udp_server_dupl" time elapsed: 00:00:00
+----------------------------------------------------------
+
